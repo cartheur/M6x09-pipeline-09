@@ -2,7 +2,7 @@
 
 TurboNine-pipelined 6x09
 
-A Compact & Efficient Pipelined 6809 Microprocessor IP
+_A Compact and Efficient Pipelined 6809 Microprocessor IP_
 
 ![Turbo9 Logo](./docs/images/turbo9_logo_small.png)
 
